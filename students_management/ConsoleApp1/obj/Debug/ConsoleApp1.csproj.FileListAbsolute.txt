@@ -1,0 +1,15 @@
+D:\C#_BTEC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\C#_BTEC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\C#_BTEC\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\C#_BTEC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csprojAssemblyReference.cache
+D:\C#_BTEC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\C#_BTEC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\C#_BTEC\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.SuggestedBindingRedirects.cache
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+E:\NguyenDinhNhat_Btec_Lab_And_HomeWork\NguyenDinhNhat_Btec_Lab_And_HomeWork\students_management\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
